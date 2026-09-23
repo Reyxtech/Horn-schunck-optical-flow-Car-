@@ -59,15 +59,15 @@ The script produces three figures:
 
 ### First Frame
 
-![First Frame](results/first_frame.png)
+![First Frame](Results/first_frame.png)
 
 ### Optical Flow
 
-![Optical Flow](results/optical_flow.png)
+![Optical Flow](Results/optical_flow.png)
 
 ### Optical Flow on Image
 
-![Optical Flow on Image](results/optical_flow_on_image.png)
+![Optical Flow on Image](Results/optical_flow_on_image.png)
 
 The resulting maximum flow values in this example were:
 
