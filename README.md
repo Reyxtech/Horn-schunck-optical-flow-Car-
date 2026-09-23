@@ -55,6 +55,20 @@ The script produces three figures:
 2. The estimated optical flow field
 3. The optical flow shown over the original image
 
+## Results
+
+### First Frame
+
+![First Frame](results/first_frame.png)
+
+### Optical Flow
+
+![Optical Flow](results/optical_flow.png)
+
+### Optical Flow on Image
+
+![Optical Flow on Image](results/optical_flow_on_image.png)
+
 The resulting maximum flow values in this example were:
 
 ```text
